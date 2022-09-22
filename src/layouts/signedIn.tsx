@@ -1,3 +1,4 @@
+/* eslint-disable no-empty-pattern */
 import React from "react";
 import { Container, Copy } from "components/shared";
 interface Props {}

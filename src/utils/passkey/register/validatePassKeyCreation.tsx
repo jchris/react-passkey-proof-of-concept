@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import PassKeyClientData from "types/passkey/passKeyClientData";
 import parseClientData from "utils/passkey/shared/parseClientData";
 import PassKeyClientDataValidation from "types/passkey/passKeyClientDataValidation";

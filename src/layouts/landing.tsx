@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import React, { useState } from "react";
 import { Container, SignInButton, Copy, UserName } from "components/shared";
 import getPasskeyCredential from "utils/passkey/authenticate/getPasskeyCredential";
